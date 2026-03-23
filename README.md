@@ -42,12 +42,6 @@ Each page includes foundational SEO tags in the head:
 3. Open homepage.html in your browser.
 4. Use the navigation links to visit all pages.
 
-## Suggested Next Improvements
-
-- Add an index.html entry page if you want a default landing file.
-- Connect the contact form to a backend or form service for real submissions.
-- Add accessibility enhancements such as skip links and more descriptive link text.
-
 ## Author
 
 Sarah Williams
